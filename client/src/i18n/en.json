@@ -1,0 +1,79 @@
+{
+    "home": {
+        "title": "HELP TO RESTORE SCHOOLS IN UKRAINE",
+        "share": "Share",
+        "donate": "Donate",
+        "contact": "Contact Us"
+    },
+    "clipboard": "Link copied to the clipboard",
+    "angel": {
+        "title": "Angel Of Freedom",
+        "placeholders": {
+            "name": "Enter name",
+            "surname": "Enter surname",
+            "phone": "Enter phone number",
+            "adress":  "Enter adress (City / Adress)",
+            "sum": "Enter donation amount"
+        },
+        "labels": {
+            "angel": "Angel Of Freedom",
+            "angel-set": "Toolkits for making Angels",
+            "name": "Name",
+            "surname": "Surname",
+            "phone": "Phone number",
+            "adress": "Adress",
+            "sum": "Donation amount"
+        },
+        "donate": "Donate"
+    },
+    "free-charity": {
+        "title": "Donate",
+        "anon": "Do you want to donate anonymously?",
+        "placeholders": {
+            "name": "Enter name",
+            "surname": "Enter surname",
+            "sum": "Enter donation amount"
+        },
+        "labels": {
+            "name": "Name",
+            "surname": "Surname",
+            "sum": "Donation amount"
+        },
+        "donate": "Donate"
+    },
+    "payment-modal": {
+        "title": "Choose payment method",
+        "credit-card": "Сard payment",
+        "back": "Back"
+    },
+    "donations": {
+        "title": "Donation Amount",
+        "cost": "800 000 tenge / 2 000 000 tenge",
+        "links": {
+            "angel": {
+                "title": "Angel Of Freedom",
+                "description": "You can donate any amount and we will send you an Angel.",
+                "button": "Get an angel"
+            },
+            "angel-set": {
+                "title": "Toolkits for making Angels",
+                "description": "You can donate any amount to us and we will send you toolkits for making Angels",
+                "button": "Get an angel"
+            }
+        },
+        "free-charity": {
+            "title": "Donations",
+            "description": "We also have donations without Angels",
+            "button": "Help!"
+        },
+        "box": {
+            "title": "Place boxes with Angels of Freedom in your office / establishment",
+            "description": "We are ready to provide boxes with angels for contactless sale. The cost of one angel is 2500 tenge. It can be paid using the QR code indicated on the box",
+            "button": "Set box"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "city": "Astana"
+        }
+    }
+}
